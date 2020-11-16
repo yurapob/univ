@@ -1,0 +1,54 @@
+c:/Users/user/documents/visual studio 2015/Projects/Patterns/Decorator/bin/Debug/Decorator.exe.config
+c:/Users/user/documents/visual studio 2015/Projects/Patterns/Decorator/bin/Debug/Decorator.exe
+c:/Users/user/documents/visual studio 2015/Projects/Patterns/Decorator/bin/Debug/Decorator.pdb
+c:/Users/user/documents/visual studio 2015/Projects/Patterns/Decorator/obj/Debug/Decorator.exe
+c:/Users/user/documents/visual studio 2015/Projects/Patterns/Decorator/obj/Debug/Decorator.pdb
+c:/Users/user/documents/visual studio 2015/Projects/Patterns/Decorator/obj/Debug/Decorator.csprojResolveAssemblyReference.cache
+C:/Users/user/Desktop/ООР/Patterns/Decorator/bin/Debug/Decorator.exe.config
+C:/Users/user/Desktop/ООР/Patterns/Decorator/obj/Debug/Decorator.exe
+C:/Users/user/Desktop/ООР/Patterns/Decorator/obj/Debug/Decorator.pdb
+C:/Users/user/Desktop/ООР/Patterns/Decorator/bin/Debug/Decorator.exe
+C:/Users/user/Desktop/ООР/Patterns/Decorator/bin/Debug/Decorator.pdb
+C:/Users/user/Desktop/ООР/Patterns/Decorator/obj/Debug/Decorator.csprojResolveAssemblyReference.cache
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab/Patterns/Decorator/bin/Debug/Decorator.exe.config
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab/Patterns/Decorator/bin/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab/Patterns/Decorator/bin/Debug/Decorator.pdb
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab/Patterns/Decorator/obj/Debug/Decorator.csprojResolveAssemblyReference.cache
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab/Patterns/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab/Patterns/Decorator/obj/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab/Patterns/Decorator/obj/Debug/Decorator.pdb
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab2/Patterns/Decorator/bin/Debug/Decorator.exe.config
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab2/Patterns/Decorator/bin/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab2/Patterns/Decorator/bin/Debug/Decorator.pdb
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab2/Patterns/Decorator/obj/Debug/Decorator.csprojResolveAssemblyReference.cache
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab2/Patterns/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab2/Patterns/Decorator/obj/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП/Модуль 1/3/lab2/Patterns/Decorator/obj/Debug/Decorator.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/bin/Debug/Decorator.exe.config
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/bin/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/bin/Debug/Decorator.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/obj/Debug/Decorator.csprojAssemblyReference.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/obj/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/obj/Debug/Decorator.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/bin/Debug/Decorator.exe.config
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/bin/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/bin/Debug/Decorator.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/obj/Debug/Decorator.csprojAssemblyReference.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/obj/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Decorator/obj/Debug/Decorator.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Decorator/bin/Debug/Decorator.exe.config
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Decorator/bin/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Decorator/bin/Debug/Decorator.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Decorator/obj/Debug/Decorator.csprojAssemblyReference.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Decorator/obj/Debug/Decorator.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Decorator/obj/Debug/Decorator.pdb
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Decorator/bin/Debug/Decorator.exe.config
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Decorator/bin/Debug/Decorator.exe
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Decorator/bin/Debug/Decorator.pdb
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Decorator/obj/Debug/Decorator.csprojAssemblyReference.cache
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Decorator/obj/Debug/Decorator.exe
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Decorator/obj/Debug/Decorator.pdb

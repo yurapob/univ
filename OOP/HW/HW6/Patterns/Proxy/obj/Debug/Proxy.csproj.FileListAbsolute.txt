@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\obj\Debug\Proxy.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Proxy\obj\Debug\Proxy.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Proxy\bin\Debug\Proxy.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Proxy\obj\Debug\Proxy.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Proxy\obj\Debug\Proxy.pdb

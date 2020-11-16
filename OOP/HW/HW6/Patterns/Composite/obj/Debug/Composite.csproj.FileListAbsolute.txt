@@ -1,0 +1,45 @@
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Composite\bin\Debug\Composite.exe.config
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Composite\bin\Debug\Composite.exe
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Composite\bin\Debug\Composite.pdb
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Composite\obj\Debug\Composite.exe
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Composite\obj\Debug\Composite.pdb
+C:\Users\game\Desktop\ООП 2016\Модуль 1\Тема 3\Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\game\Desktop\ООП 2016\Модуль 1\Тема 3\Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\game\Desktop\ООП 2016\Модуль 1\Тема 3\Patterns\Composite\obj\Debug\Composite.pdb
+C:\Users\user\Desktop\ООР\Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\user\Desktop\ООР\Patterns\Composite\bin\Debug\Composite.exe
+C:\Users\user\Desktop\ООР\Patterns\Composite\bin\Debug\Composite.pdb
+C:\Users\user\Desktop\ООР\Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\user\Desktop\ООР\Patterns\Composite\obj\Debug\Composite.pdb
+C:\Users\user\Desktop\ООР\Patterns\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ООР\Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Composite\bin\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Composite\bin\Debug\Composite.pdb
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Composite\obj\Debug\Composite.pdb
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Composite\bin\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Composite\bin\Debug\Composite.pdb
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Composite\obj\Debug\Composite.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\bin\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\bin\Debug\Composite.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\obj\Debug\Composite.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\bin\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\bin\Debug\Composite.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Composite\obj\Debug\Composite.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Composite\bin\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Composite\bin\Debug\Composite.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Composite\obj\Debug\Composite.pdb

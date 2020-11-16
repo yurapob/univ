@@ -1,0 +1,28 @@
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/bin/Debug/Prototype.exe.config
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/bin/Debug/Prototype.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/bin/Debug/Prototype.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/obj/Debug/Prototype.csprojAssemblyReference.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/obj/Debug/Prototype.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/obj/Debug/Prototype.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 5/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/obj/Debug/Prototype.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/bin/Debug/Prototype.exe.config
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/bin/Debug/Prototype.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/bin/Debug/Prototype.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/obj/Debug/Prototype.csprojAssemblyReference.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/obj/Debug/Prototype.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/obj/Debug/Prototype.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns-20191002T095921Z-001 (1)/Patterns/Prototype/obj/Debug/Prototype.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Prototype/bin/Debug/Prototype.exe.config
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Prototype/bin/Debug/Prototype.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Prototype/bin/Debug/Prototype.pdb
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Prototype/obj/Debug/Prototype.csprojAssemblyReference.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Prototype/obj/Debug/Prototype.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Prototype/obj/Debug/Prototype.exe
+C:/Users/user/Desktop/2018_2019/ООП2020_2021/Тема 6/Patterns/Prototype/obj/Debug/Prototype.pdb
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Prototype/bin/Debug/Prototype.exe.config
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Prototype/bin/Debug/Prototype.exe
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Prototype/bin/Debug/Prototype.pdb
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Prototype/obj/Debug/Prototype.csprojAssemblyReference.cache
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Prototype/obj/Debug/Prototype.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Prototype/obj/Debug/Prototype.exe
+/Users/macbook/Desktop/univ/ООП/HW6/Patterns/Prototype/obj/Debug/Prototype.pdb

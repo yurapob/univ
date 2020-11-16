@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\bin\Debug\PrototypeFigure.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\bin\Debug\PrototypeFigure.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\bin\Debug\PrototypeFigure.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\bin\Debug\PrototypeFigure.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\bin\Debug\PrototypeFigure.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\bin\Debug\PrototypeFigure.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\PrototypeFigure\bin\Debug\PrototypeFigure.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\PrototypeFigure\bin\Debug\PrototypeFigure.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\PrototypeFigure\bin\Debug\PrototypeFigure.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\PrototypeFigure\obj\Debug\PrototypeFigure.pdb

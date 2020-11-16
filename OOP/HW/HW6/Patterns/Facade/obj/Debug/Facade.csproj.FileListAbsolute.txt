@@ -1,0 +1,47 @@
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Facade\bin\Debug\Facade.exe.config
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Facade\bin\Debug\Facade.exe
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Facade\bin\Debug\Facade.pdb
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Facade\obj\Debug\Facade.exe
+c:\Users\user\documents\visual studio 2015\Projects\Patterns\Facade\obj\Debug\Facade.pdb
+C:\Users\user\Desktop\ООР\Patterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\user\Desktop\ООР\Patterns\Facade\obj\Debug\Facade.exe
+C:\Users\user\Desktop\ООР\Patterns\Facade\obj\Debug\Facade.pdb
+C:\Users\user\Desktop\ООР\Patterns\Facade\bin\Debug\Facade.exe
+C:\Users\user\Desktop\ООР\Patterns\Facade\bin\Debug\Facade.pdb
+C:\Users\user\Desktop\ООР\Patterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Facade\bin\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Facade\bin\Debug\Facade.pdb
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Facade\obj\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab\Patterns\Facade\obj\Debug\Facade.pdb
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Facade\bin\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Facade\bin\Debug\Facade.pdb
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Facade\obj\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\3\lab2\Patterns\Facade\obj\Debug\Facade.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\bin\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\bin\Debug\Facade.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\obj\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\obj\Debug\Facade.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 5\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\bin\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\bin\Debug\Facade.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\obj\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns-20191002T095921Z-001 (1)\Patterns\Facade\obj\Debug\Facade.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Facade\bin\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Facade\bin\Debug\Facade.pdb
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Facade\obj\Debug\Facade.exe
+C:\Users\user\Desktop\2018_2019\ООП2020_2021\Тема 6\Patterns\Facade\obj\Debug\Facade.pdb
